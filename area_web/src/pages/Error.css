@@ -1,0 +1,40 @@
+.box_contain_error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.box_contain_error_top {
+  padding: 20px;
+  background-color: #469fc9;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 20px;
+  width: 20%;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.button {
+  height: 60px;
+  background-color: #43b0df;
+  border: 2px white solid;
+  border-color: white;
+  color: white;
+  border-radius: 15px;
+  font-size: 18px;
+  font-family: "Arial";
+  font-weight: bold;
+  padding: 10px;
+}
+
+.button:hover {
+  background-color: #57b7e0;
+  color: white;
+}

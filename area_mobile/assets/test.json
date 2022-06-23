@@ -1,0 +1,36 @@
+[
+    {
+        "id": "k825UsRk",
+        "actionService": "GitHub",
+        "actionElement": "check_run",
+        "inputAction": {
+            "githubName": "terry-afk",
+            "repository": "test",
+            "token": "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",
+            "hook_id": "341637800"
+        },
+        "reactionService": "Mail",
+        "reactionElement": "send_mail",
+        "inputReaction": {
+            "email": "alexis.fabar@gmail.com",
+            "object": "reaction push"
+        }
+    },
+    {
+        "id": "k825UsRkvds",
+        "actionService": "GitHub",
+        "actionElement": "push",
+        "inputAction": {
+            "githubName": "terry-afk",
+            "repository": "test",
+            "token": "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",
+            "hook_id": "341637800"
+        },
+        "reactionService": "Mail",
+        "reactionElement": "send_mail",
+        "inputReaction": {
+            "email": "alexis.fabar@gmail.com",
+            "object": "reaction push"
+        }
+    }
+]

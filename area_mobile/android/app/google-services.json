@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "239114390100",
+    "project_id": "area-e3fc2",
+    "storage_bucket": "area-e3fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239114390100:android:bab1180cd4e22c886d3bc1",
+        "android_client_info": {
+          "package_name": "area.epitech.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239114390100-7f0d5anmkhdj8g5nalte7hmuhe5aintt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "area.epitech.android",
+            "certificate_hash": "db7f60fd86e503973219443a3fa57c298bb0cf11"
+          }
+        },
+        {
+          "client_id": "239114390100-v0fmv0ngnhc3t6j5g014p1ot3aq01bdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOxX0_GMXoqVK2-9mpk0D99HwMkbQjPww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239114390100-v0fmv0ngnhc3t6j5g014p1ot3aq01bdb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239114390100-bfu776ala1usgij0jv0v976lakorfbno.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "area.epitech.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239114390100:android:c5e281a19b8e59db6d3bc1",
+        "android_client_info": {
+          "package_name": "com.example.area_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239114390100-rj4svjheegt0q60iuo9p94hnhaf3pq60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.area_mobile",
+            "certificate_hash": "db7f60fd86e503973219443a3fa57c298bb0cf11"
+          }
+        },
+        {
+          "client_id": "239114390100-v0fmv0ngnhc3t6j5g014p1ot3aq01bdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOxX0_GMXoqVK2-9mpk0D99HwMkbQjPww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239114390100-v0fmv0ngnhc3t6j5g014p1ot3aq01bdb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239114390100-bfu776ala1usgij0jv0v976lakorfbno.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "area.epitech.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
